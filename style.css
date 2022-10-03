@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+.mapa {
+    width: 100;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.midiasocial {
+    height: 0px;
+    width: 0px;
+    display: flex;
+    size: 50px;
+    margin: 350px;
+}
+h1 {
+    color: whitesmoke;
+}
+
+p {
+    color: whitesmoke;
+}
